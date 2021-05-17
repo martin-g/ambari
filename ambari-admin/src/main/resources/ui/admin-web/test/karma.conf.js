@@ -46,7 +46,7 @@ module.exports = function(config){
 
     frameworks: ['jasmine'],
 
-    browsers: ['ChromeHeadless'],
+    browsers: ['ChromiumHeadless'],
 
     plugins : [
             'karma-jasmine',
